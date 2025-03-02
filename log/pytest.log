@@ -1,0 +1,9 @@
+WARNING  2025-03-03 09:45:22 [pytest_result_log:122]  : ------Start: testcases/test_api.py::TestApi::test_get_access_token[args0]-------
+INFO     2025-03-03 09:45:23 [pytest_result_log:190]  : test status is PASSED (testcases/test_api.py::TestApi::test_get_access_token[args0]): 
+WARNING  2025-03-03 09:45:23 [pytest_result_log:128]  : -------End: testcases/test_api.py::TestApi::test_get_access_token[args0]--------
+WARNING  2025-03-03 09:45:23 [pytest_result_log:190]  : test status is SKIPPED (testcases/test_api.py::TestApi::test_creat_tag): Skipped: yaml文件中第二天用例获取不到access_token
+INFO     2025-03-03 09:45:23 [pytest_result_log:194]  : testcases/test_api.py::TestApi::test_creat_tag -> ('D:\\api_frame\\testcases\\test_api.py', 30, 'Skipped: yaml文件中第二天用例获取不到access_token')
+WARNING  2025-03-03 09:45:23 [pytest_result_log:128]  : --------------End: testcases/test_api.py::TestApi::test_creat_tag---------------
+WARNING  2025-03-03 09:45:23 [pytest_result_log:122]  : --------------Start: testcases/test_api.py::TestApi::test_get_tag---------------
+INFO     2025-03-03 09:45:23 [pytest_result_log:190]  : test status is PASSED (testcases/test_api.py::TestApi::test_get_tag): 
+WARNING  2025-03-03 09:45:23 [pytest_result_log:128]  : ---------------End: testcases/test_api.py::TestApi::test_get_tag----------------

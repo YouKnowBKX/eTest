@@ -1,0 +1,14 @@
+-
+  name: 获取access_token
+  request:
+    url: https://api.weixin.qq.com/cgi-bin/token
+    params:
+      grant_type: client_credential
+      appid: wxc99f90398e216f45
+      secret: e37fc7f2d9a95b608c4b0ea98c61badc
+    headers:
+      Content-Type: application/json
+      charset: utf-8
+  volidate:
+    eq:
+      expires_in: 7200

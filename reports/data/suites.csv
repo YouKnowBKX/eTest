@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","0","test_creat_tag","testcases","Mon Mar 03 09:45:23 CST 2025","skipped","Mon Mar 03 09:45:23 CST 2025","TestApi","test_api","",""
+"","196","test_get_tag","testcases","Mon Mar 03 09:45:23 CST 2025","passed","Mon Mar 03 09:45:23 CST 2025","TestApi","test_api","",""
+"","475","test_get_access_token[args0]","testcases","Mon Mar 03 09:45:22 CST 2025","passed","Mon Mar 03 09:45:23 CST 2025","TestApi","test_api","",""
