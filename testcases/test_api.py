@@ -26,7 +26,7 @@ class TestApi:
         print(result,type(result))
         Yamlutil("./extract.yaml").write_yaml(result)
 
-    #跳过
+    #跳过用例
     # @pytest.mark.skip(reason="yaml文件中第二天用例获取不到access_token")
     def test_creat_tag(self):
 
